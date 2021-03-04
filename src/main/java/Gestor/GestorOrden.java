@@ -3,13 +3,20 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
-package controlador;
+package Gestor;
+import Modelo.*;
 
 /**
  *
  * @author SOPORTE
  */
-public class ControladorVehiculo {
-
+public class GestorOrden {
+    
+    public Orden administrarOrden(){
+        Orden o = new Orden();
+        
+        return o;
+    }
+    
+    
 }

@@ -3,13 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
-package vista;
+package Modelo;
 
 /**
  *
  * @author SOPORTE
  */
-public class Vehiculo {
-
+public class Orden {
+    
 }
